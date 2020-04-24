@@ -1,5 +1,5 @@
-# pytorch-cifar10
-group practice on MNIST with PyTorch <br>
+# MNIST
+group practice on MNIST dataset
 
 
 ## Introduction
