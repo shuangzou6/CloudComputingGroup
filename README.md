@@ -7,10 +7,10 @@ The project is to train and evaluate the performance of CNN model based on Colab
 - torchvision 0.2.0
 
 ## dataset
---MNIST 
---cifar-10
+- MNIST 
+- cifar-10
 
 ## model
---Alexnet
---Resnet
---VGGnet
+- Alexnet
+- Resnet
+- VGGnet
